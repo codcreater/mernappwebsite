@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mernappwebsite/static/css/main.43d6b5aa.css",
+    "main.js": "/mernappwebsite/static/js/main.02e549ef.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/mernappwebsite/static/js/787.7fe0dfbc.chunk.js",
+    "index.html": "/mernappwebsite/index.html",
+    "main.43d6b5aa.css.map": "/mernappwebsite/static/css/main.43d6b5aa.css.map",
+    "main.02e549ef.js.map": "/mernappwebsite/static/js/main.02e549ef.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/mernappwebsite/static/js/787.7fe0dfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d6b5aa.css",
+    "static/js/main.02e549ef.js"
+  ]
+}
